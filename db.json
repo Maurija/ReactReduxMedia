@@ -5,10 +5,57 @@
       "name": "Myra"
     },
     {
-      "name": "Dominick Rolfson",
-      "id": 3
+      "name": "Victor Mante",
+      "id": 4
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Rustic Wooden Mouse",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "title": "Tasty Rubber Table",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Refined Bronze Chicken",
+      "id": 22
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Concrete Keyboard",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Cotton Chair",
+      "id": 24
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52597",
+      "id": 1
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28165",
+      "id": 2
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=40468",
+      "id": 5
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=63291",
+      "id": 7
+    }
+  ]
 }
